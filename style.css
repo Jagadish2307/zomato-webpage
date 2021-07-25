@@ -234,7 +234,6 @@ footer > ul > li{
 }
 .icons{
     margin:10px 0;
-    /* padding:0 10px; */
 }
 .icons .fab{
     /* background-color:white; */
@@ -246,7 +245,7 @@ footer > ul > li{
     cursor:pointer;
     margin:0px 3px;
     line-height:30px;
-    z-index:0.3;
+    z-index:-3;
 }
 
 @media (min-width:768px){
